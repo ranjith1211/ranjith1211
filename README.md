@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="" />
-<h1 align="center">Hi 👋, I'm Ranjith K</h1>
+<h1 align="center">Hi 👋, I'm Ranjith </h1>
 <h3 align="center">Aspiring full stack Web-Developer from Masai School.</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=""  align="right" width="400px" height="300px" style="border-radius:50px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashkvar&label=Profile%20views&color=0e75b6&style=flat" alt="avinashkvar" /> </p>
